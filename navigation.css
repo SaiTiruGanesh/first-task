@@ -1,0 +1,18 @@
+*{
+			margin: 0%;
+		}
+		.nav{
+			background-color: black;
+			display: flex;
+			justify-content: space-evenly;
+		}
+		.nav a{
+			color: orangered;
+			font-size: 38px;
+			text-decoration: none;
+			padding: 1% 9%;
+		}
+		.nav a:hover{
+			border: groove;
+			border-color: silver;
+		}
